@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Cassio Zen",
+    "email": "cassiozen@gmail.com",
+    "telephone": "55 85 9965 3212"
+  },
+  {
+    "name": "Dan Abramov",
+    "email": "gaearon@somewhere.com",
+    "telephone": "55 85 9965 3213"
+  },
+  {
+    "name": "Pete Hunt",
+    "email": "floydophone@somewhere.com",
+    "telephone": "55 85 9965 3214"
+  },
+  {
+    "name": "Paul O’Shannessy",
+    "email": "zpao@somewhere.com",
+    "telephone": "55 85 9965 3215"
+  },
+  {
+    "name": "Ryan Florence",
+    "email": "rpflorence@somewhere.com",
+    "telephone": "55 85 9965 3216"
+  },
+  {
+    "name": "Sebastian Markbage",
+    "email": "sebmarkbage@here.com",
+    "telephone": "55 85 9965 3217"
+  }
+]
