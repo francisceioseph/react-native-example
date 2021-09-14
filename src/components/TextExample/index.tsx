@@ -6,11 +6,14 @@ const TextExample = () => {
     <View style={{flexDirection: 'row', alignItems: 'center'}}>
       <Text
         style={{
-          fontFamily: 'Roboto',
           fontSize: 64,
           fontWeight: 'bold',
         }}>
-        Hello World!!!
+        Hello
+        <Text style={{color: 'blue', fontStyle: 'italic', fontWeight: '200'}}>
+          {' '}
+          Fortaleza
+        </Text>
       </Text>
     </View>
   );

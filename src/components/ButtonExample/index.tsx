@@ -2,6 +2,8 @@ import React from 'react';
 import {Alert, Button, View} from 'react-native';
 
 const ButtonExample = () => {
+  const handleButtonPress = () => Alert.alert('Hello');
+
   return (
     <View
       style={{
@@ -10,12 +12,10 @@ const ButtonExample = () => {
         alignItems: 'center',
       }}>
       <Button
-        onPress={() => {
-          Alert.alert('Hello World!');
-        }}
-        title="Aperte"
+        title="Oferta especial!!!"
         color="#841584"
         accessibilityLabel="clique aqui para exibir um alerta"
+        onPress={handleButtonPress}
       />
     </View>
   );

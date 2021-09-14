@@ -10,8 +10,11 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "dependencies": {
+    "@hookform/resolvers": "^2.8.0",
     "react": "17.0.2",
-    "react-native": "0.65.1"
+    "react-hook-form": "^7.15.3",
+    "react-native": "0.65.1",
+    "yup": "^0.32.9"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
