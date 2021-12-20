@@ -1,0 +1,6 @@
+{
+  "native": true,
+  "typescript": true,
+  "outDir": "src/components/Icons",
+  "ext": "tsx"
+}

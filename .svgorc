@@ -1,0 +1,21 @@
+{
+  "plugins": [
+    "cleanupAttrs",
+    "cleanupIDs",
+    {
+      "name": "removeAttrs",
+      "params": {
+        "attrs": "(fill)"
+      }
+    },
+    "removeDesc",
+    "removeEditorsNSData",
+    "removeEmptyText",
+    "removeEmptyContainers",
+    "removeHiddenElems",
+    "removeTitle",
+    "removeUselessDefs",
+    "removeXMLNS",
+    "sortAttrs"
+  ]
+}
